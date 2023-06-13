@@ -40,4 +40,6 @@ return obj;
 
 function lvl1exercise7 () {
   // Declare a variable as a boolean value 'false' and return it
+  const answer = false;
+  return answer;
 }
